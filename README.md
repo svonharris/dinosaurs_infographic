@@ -20,5 +20,3 @@ The functionality for this project serves two purposes:
 1. Open project folder
 2. In the terminal, run 'node server.js'
 3. Open a web browser to url: http://localhost:8000/
-
-![Dinosaurs Infographic mockup](/images/dinosaurs-project.png)
